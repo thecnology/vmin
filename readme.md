@@ -15,9 +15,11 @@
  U can use it as web page or php client call.
  
 ###  Using as website: 
- copy file into web directory and launch as: [http://localhost/yourdir/vmin.php?dir=directoryWithSourceCode] (http://localhost/yourdir/vmin.php?dir=directoryWithSourceCode)
+ 
+copy file into web directory and launch as: [http://localhost/yourdir/vmin.php?dir=directoryWithSourceCode] (http://localhost/yourdir/vmin.php?dir=directoryWithSourceCode)
  
  ###  Using as php client:
+
  copy file into your directory and launch command php vmin.php directoryWithSourceCode
  
  U can also use minified version of vmin called vminified.php
