@@ -10,7 +10,7 @@
  * @package    vmin
  */
 ```
-### How to use
+## How to use
 
  U can use it as web page or php client call.
  
@@ -18,7 +18,7 @@
  
 copy file into web directory and launch as: [http://localhost/yourdir/vmin.php?dir=directoryWithSourceCode] (http://localhost/yourdir/vmin.php?dir=directoryWithSourceCode)
  
- ###  Using as php client:
+ #### Using as php client:
 
  copy file into your directory and launch command php vmin.php directoryWithSourceCode
  
