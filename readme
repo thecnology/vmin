@@ -1,4 +1,6 @@
-/***
+### vminifier
+```html
+/**
  * @author Vitezslav Kis / thecnology(a.t.)gmail.com / twitter.com/thecnology
  * 
  * Based on David Grudl's php shrink file (http://latrine.dgx.cz/jak-zredukovat-php-skripty)
@@ -7,7 +9,7 @@
  * @license    http://www.gnu.org/copyleft/gpl.html  General Public License 
  * @package    vmin
  */
- 
+ ...
  U can use it as web page or php client call.
  
  Using website: 
